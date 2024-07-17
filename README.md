@@ -17,3 +17,8 @@ Spawn Menu,
 Infinite Health,
 Infinite Sheild And
 Infinite Stamina.
+
+
+
+
+The installer is in releases so you have to download it from there.
