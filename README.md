@@ -21,4 +21,9 @@ Infinite Stamina.
 
 
 
-The installer is in releases so you have to download it from there.
+# The installer is in releases so you have to download it from there.
+
+Yes download it from there or else you get nothing
+
+# PYTHON 3.12 IS A REQUIREMENT
+Download python 3.12: https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=en-us&gl=AU
